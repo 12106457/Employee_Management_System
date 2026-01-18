@@ -12,7 +12,7 @@ connectDB();
 
 const corsOptions = {
   origin: [
-    'https://employee-management-system-olive-five.vercel.app',
+    'https://employee-management-system-iuh4.vercel.app',
     'http://localhost:3000'
   ],
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
